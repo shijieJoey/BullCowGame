@@ -1,0 +1,8 @@
+
+
+Baisc loop:
+
+1. Start game
+2. Set hidden word
+3. Prompt for guess
+4. Is guess correct and win or lose
